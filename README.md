@@ -14,17 +14,19 @@
   
   
  <div style="display: inline_block"><br>
-  <h3>💻 &nbsp;Front-end:</h3>
+  <h3>💻 &nbsp;Tecnologias: </h3> 
    
-    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
     
-  <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-   
-    ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-       
+   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Camila-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Camila-core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Camila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Camila-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/571711304985739278/950487472683483217/Webp.net-gifmaker.gif?width=453&height=453">    
 
 </div>
   
