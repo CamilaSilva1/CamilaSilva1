@@ -26,7 +26,8 @@
   <img align="center" alt="Camila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Camila-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Camila-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/571711304985739278/950487472683483217/Webp.net-gifmaker.gif?width=453&height=453">    
+  <img align="right" alt="Camila-gif" height="150" style="border-radius:50px;" 
+                     src="https://media.discordapp.net/attachments/571711304985739278/950487472683483217/Webp.net-gifmaker.gif?width=453&height=453">    
 
 </div>
   
