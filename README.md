@@ -1,7 +1,7 @@
 ### 👋 Olá! Eu sou a Camila Silva
 
-- 🔭 Hoje trabalho com front-end e desenvolvimento de games 
-- 🌱 Atualmente estudando front-end
+- 🔭 Hoje trabalho com front-end
+- 🌱 Atualmente estudando desenvolvimento front-end (Angular/React)
 - 📫 Contate-me no email: Camiladasilvaassis1@gmail.com
 - 😄 Ela/Dela
 
